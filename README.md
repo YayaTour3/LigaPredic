@@ -1,5 +1,7 @@
 # LigaPredic
 
+Simple Predictor for Sport Tournament like UEFA Euro, Africa Cup, World Cup ...
+
 ## Exemple outputs:
 
 
